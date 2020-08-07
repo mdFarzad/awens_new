@@ -24,7 +24,7 @@ nav {
     padding: 2%;
 }
 
-.nav-links li {
+.nav-links .navlist {
     list-style: none;
 }
 
@@ -104,7 +104,7 @@ nav {
         width: 10%;
     }
 
-    .nav-links li {
+    .nav-links .navlist {
         opacity: 0;
     }
 
